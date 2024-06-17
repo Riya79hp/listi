@@ -1,0 +1,157 @@
+
+
+[
+    {
+        "Name": "Shape of You",
+        "Duration": "3:54",
+        "Artist": "Ed Sheeran",
+        "src": "https://upload.wikimedia.org/wikipedia/en/b/b4/Shape_Of_You_%28Official_Single_Cover%29_by_Ed_Sheeran.png"
+        
+    },
+    {
+        "Name": "Baby",
+        "Duration": "3:36",
+        "Artist": "Justin Bieber",
+        "src": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7089713a-37d5-4ec0-adbf-d619a18cc7e3/d53e47j-cba19453-20f4-430a-8825-c78e2a5e787c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcwODk3MTNhLTM3ZDUtNGVjMC1hZGJmLWQ2MTlhMThjYzdlM1wvZDUzZTQ3ai1jYmExOTQ1My0yMGY0LTQzMGEtODgyNS1jNzhlMmE1ZTc4N2MucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qQPh_0xGaU41d5cbd-cjxBoBe4yFB9Gq2UffMwADnwI"
+    },
+    {
+        "Name": "Good for You",
+        "Duration": "3:41",
+        "Artist": "Selena Gomez",
+        "src": "https://nxtstyle.com/wp-content/uploads/2015/08/1455.-SELENA-GOMEZ-FT.-AAP-ROCKY-GOOD-FOR-YOU-GREY-REMIX.jpg"
+    },
+    {
+        "Name": "Love Story",
+        "Duration": "3:55",
+        "Artist": "Taylor Swift",
+        "src": "https://upload.wikimedia.org/wikipedia/en/0/01/Taylor_Swift_-_Love_Story.png"
+    },
+    {
+        "Name": "Blinding Lights",
+        "Duration": "3:20",
+        "Artist": "The Weeknd",
+        "src": "https://upload.wikimedia.org/wikipedia/en/e/e6/The_Weeknd_-_Blinding_Lights.png"
+    },
+    {
+        "Name": "drivers license",
+        "Duration": "4:02",
+        "Artist": "Olivia Rodrigo",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Drivers_License_by_Olivia_Rodrigo.png/220px-Drivers_License_by_Olivia_Rodrigo.png"
+    },
+    {
+        "Name": "Levitating",
+        "Duration": "3:23",
+        "Artist": "Dua Lipa",
+        "src": "https://i1.sndcdn.com/artworks-IeJj19bzbXIrLiE3-Foa40Q-t500x500.jpg"
+    },
+    {
+        "Name": "Peaches",
+        "Duration": "3:18",
+        "Artist": "Justin Bieber",
+        "src": "https://upload.wikimedia.org/wikipedia/en/0/0a/Justin_Bieber_-_Peaches.png"
+    },
+    {
+        "Name": "Willow",
+        "Duration": "3:34",
+        "Artist": "Taylor Swift",
+        "src": "https://i.scdn.co/image/ab67616d0000b27325751b4b32829d6bbfe6be7f"
+    },
+    {
+        "Name": "Deja Vu",
+        "Duration": "3:35",
+        "Artist": "Olivia Rodrigo",
+        "src": "https://upload.wikimedia.org/wikipedia/en/a/af/Olivia_Rodrigo_-_Deja_Vu.png"
+    },
+    {
+        "Name": "Dynamite",
+        "Duration": "3:19",
+        "Artist": "BTS",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/BTS_-_Dynamite_%28official_cover%29.png"
+    },
+    {
+        "Name": "Positions",
+        "Duration": "2:52",
+        "Artist": "Ariana Grande",
+        "src": "https://upload.wikimedia.org/wikipedia/en/a/a0/Ariana_Grande_-_Positions.png"
+    },
+    {
+        "Name": "Sorry",
+        "Duration": "3:20",
+        "Artist": "Justin Bieber",
+        "src": "https://upload.wikimedia.org/wikipedia/en/d/dc/Justin_Bieber_-_Sorry_%28Official_Single_Cover%29.png"
+    },
+    {
+        "Name": "Lose You to Love Me",
+        "Duration": "3:27",
+        "Artist": "Selena Gomez",
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8bInXeTnoCwFMgkWkLcmOKBplf4ci4-MI2O36_4D1ZA&s"
+    },
+    {
+        "Name": "Cardigan",
+        "Duration": "3:59",
+        "Artist": "Taylor Swift",
+        "src": "https://m.media-amazon.com/images/M/MV5BOTVhOTlkNjItMDMxMC00ZWU4LWIyZWItOWZkNjg3YzdkOWU4XkEyXkFqcGdeQXVyMTAxODQ2NDU1._V1_.jpg"
+    },
+
+    {
+        "Name": "Stay",
+        "Duration": "2:19",
+        "Artist": "The Kid LAROI & Justin Bieber",
+        "src": "https://upload.wikimedia.org/wikipedia/en/0/0c/The_Kid_Laroi_and_Justin_Bieber_-_Stay.png"
+    },
+    {
+        "Name": "Montero",
+        "Duration": "2:17",
+        "Artist": "Lil Nas X",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Lil_Nas_X_-_Montero.png/220px-Lil_Nas_X_-_Montero.png"
+    },
+    {
+        "Name": "Save Your Tears",
+        "Duration": "3:35",
+        "Artist": "The Weeknd",
+        "src": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36"
+    },
+   
+    {
+        "Name": "Kiss Me More (feat. SZA)",
+        "Duration": "3:28",
+        "Artist": "Doja Cat",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Doja_Cat_-_Kiss_Me_More.png/220px-Doja_Cat_-_Kiss_Me_More.png"
+    },
+    {
+        "Name": "good 4 u",
+        "Duration": "2:58",
+        "Artist": "Olivia Rodrigo",
+        "src": "https://upload.wikimedia.org/wikipedia/en/3/3e/Olivia_Rodrigo_-_Good_4_U.png"
+    },
+    {
+        "Name": "Heat Waves",
+        "Duration": "3:58",
+        "Artist": "Glass Animals",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Glass_Animals_-_Heat_Waves.png/220px-Glass_Animals_-_Heat_Waves.png"
+    },
+    {
+        "Name": "Butter",
+        "Duration": "2:45",
+        "Artist": "BTS",
+        "src": "https://upload.wikimedia.org/wikipedia/en/d/db/BTS_-_Butter.png"
+    },
+    {
+        "Name": "Permission to Dance",
+        "Duration": "3:07",
+        "Artist": "BTS",
+        "src": "https://upload.wikimedia.org/wikipedia/en/0/04/BTS_-_Permission_to_Dance.png"
+    },
+    {
+        "Name": "Leave The Door Open",
+        "Duration": "4:02",
+        "Artist": "Silk Sonic",
+        "src": "https://i.scdn.co/image/ab67616d0000b2730d18a58b311b58820ba4735f"
+    },
+    {
+        "Name": "Astronaut In The Ocean",
+        "Duration": "2:12",
+        "Artist": "Masked Wolf",
+        "src": "https://i.ytimg.com/vi/VAq90fYvZ2w/maxresdefault.jpg"
+    }
+]
